@@ -1,5 +1,5 @@
 import { Globals } from '@react-spring/core'
-import { unstable_batchedUpdates } from 'react-dom'
+import { unstable_batchedUpdates } from 'react-native'
 import { createStringInterpolator, colors } from '@react-spring/shared'
 import { createHost } from '@react-spring/animated'
 import { applyAnimatedValues } from './applyAnimatedValues'
